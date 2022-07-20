@@ -13,7 +13,7 @@
 - 💬 Ask me about Tech, Sports, Fitness and Bikes
 - 📫 How to reach me: sudip.rout007@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Always striving
+- ⚡ Fun fact: Sometimes it's better to leave something alone, to pause, and that's very true of programming
 
 
 <!-- ### Languages and Tools:
